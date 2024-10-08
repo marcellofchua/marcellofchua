@@ -1,11 +1,12 @@
 - 👋 Hi, I’m @marcellofchua
 - 👀 I’m interested in music, various tech, keyboards, 3D modeling and printing, and programming.
-- 👀 My computer hobby and education started with years of networking, configuring routers and switches.
-- 👀 My interests shifted away from networking and towards electronics modification/soldering, and coding.
 - 🎓 Bachelors of Science in Cybersecurity, graduated in 2019.
 - 🎓 Associates of Science in Computer Electronics Networking Technology, graduated in 2016.
-- 🚧 Bachelors of Science in Software Engineering, due to graduate November 2025.
 - 🛠️ My work experience covers 4 years of IT roles in hardware, helpdesk, an MSP, and systems administration.
-- 🛠️ I mostly work with Python, HTML/CSS, and various CMSs, or soldering and programming keyboards.
+
+- 👀 My computer hobby and education started with years of networking, configuring routers and switches.
+- 👀 My interests shifted away from networking and towards electronics modification/soldering, and coding.
+- 🛠️ I mostly work with Python, PHP/HTML/CSS, various CMSs, and some sparse usage of Java, C, and JSON.
 - 🌱 I’m currently learning Java, C#, Drupal, making GRUB themes, and coding a tiling manager for Windows 11.
-- 💻 I use Arch btw.
+- 🚧 Bachelors of Science in Software Engineering, due to graduate November 2025.
+- 💻 I use Arch btw, but also get my friends on Kubuntu/Mint, and use Ubuntu and Windows 10/11 for work.
