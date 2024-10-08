@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @marcellofchua
-- 👀 I’m interested in music, various tech, keyboards, 3D modeling and printing, and learning to code.
-- 🌱 I’m currently learning Python, Java, InTune, SharePoint Online, Linux tinkering, and a how to write a tiling window manager in Windows.
-- 🚧 My private GitHub for learning and experimenting is not here or connected to this account.
-- 🚧 Expect mostly files I needed to share with my friends that are building computers and are new to Linux.
-- 🚧 Coding projects will show up more often over time as I improved my skills.
-- 🚧 There will be lots of How-To Guides though, both for me and anyone that needed help with a specific thing.
+- 👀 I’m interested in music, various tech, keyboards, 3D modeling and printing, and programming.
+- 👀 My computer hobby and education started with years of networking, configuring routers and switches.
+- 👀 My interests shifted away from networking and towards electronics modification/soldering, and coding.
+- 🎓 Bachelors of Science in Cybersecurity, graduated in 2019.
+- 🎓 Associates of Science in Computer Electronics Networking Technology, graduated in 2016.
+- 🚧 Bachelors of Science in Software Engineering, due to graduate November 2025.
+- 🛠️ My work experience covers 4 years of IT roles in hardware, helpdesk, an MSP, and systems administration.
+- 🛠️ I mostly work with Python, HTML/CSS, and various CMSs, or soldering and programming keyboards.
+- 🌱 I’m currently learning Java, C#, Drupal, making GRUB themes, and coding a tiling manager for Windows 11.
+- 💻 I use Arch btw.
