@@ -6,7 +6,7 @@
 
 - 👀 My computer hobby and education started with years of networking, configuring routers and switches.
 - 👀 My interests shifted away from networking and towards electronics modification/soldering, and coding.
-- 🛠️ I mostly work with Python, PHP/HTML/CSS, various CMSs, and some sparse usage of Java, C, and JSON.
-- 🌱 I’m currently learning Java, C#, Drupal, making GRUB themes, and coding a tiling manager for Windows 11.
+- 🛠️ I mostly work with Python, PHP/HTML/CSS, host sites with WordPress, and sparsely use Java, C, and JSON.
+- 🌱 I’m currently learning Java (again), C#, making GRUB themes, and coding a tiling manager for Windows 11.
 - 🚧 Bachelors of Science in Software Engineering, due to graduate November 2025.
 - 💻 I use Arch btw, but also get my friends on Kubuntu/Mint, and use Ubuntu and Windows 10/11 for work.
