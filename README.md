@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @marcellofchua
+- 👋 Hi, you can call me Xue.
 - 👀 I’m interested in music, various tech, keyboards, 3D modeling and printing, and programming.
 - 🎓 Bachelors of Science in Cybersecurity, graduated in 2019.
 - 🎓 Associates of Science in Computer Electronics Networking Technology, graduated in 2016.
