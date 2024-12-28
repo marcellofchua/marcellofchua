@@ -2,8 +2,8 @@
 - 👀 I’m interested in music, various tech, keyboards, 3D modeling and printing, and programming.
 - 🎓 Bachelors of Science in Cybersecurity, graduated in 2019.
 - 🎓 Associates of Science in Computer Electronics Networking Technology, graduated in 2016.
-- 🛠️ wip
-- 🛠️ wip
-- 🌱 wip
-- 🚧 wip
-- 💻 I use Arch btw.
+- 🎓 Starting another Bachelor's degree in June, 2025.
+- 🛠️ Currently studying for Linux+ and Security+ certifications.
+- 💻 I dail-drive Arch btw, but also mess around with Kubuntu, FreeBSD, KolibriOS, and unsupported MacOS. Windows 11 for Fortnite, Unity modeling, and programming keyboards for AtMega32u4 chips.
+- 🌱 Personal Goals for January, 2025: Make my first few GRUB themes just for fun.
+- ⭐ Recent Personal Accomplishments in December, 2024: I made my first few SDDM themes without QtDesignStudio because I could not get the software to stop crashing in Arch lol.
