@@ -4,6 +4,9 @@
 - 🎓 Associates of Science in Computer Electronics Networking Technology, graduated in 2016.
 - 🎓 Starting another Bachelor's degree in June, 2025.
 - 🛠️ Currently studying for Linux+ and Security+ certifications.
-- 💻 I dail-drive Arch btw, but also mess around with Kubuntu, FreeBSD, KolibriOS, and unsupported MacOS. Windows 11 for Fortnite, Unity modeling, and programming keyboards for AtMega32u4 chips.
-- 🌱 Personal Goals for January, 2025: Make my first few GRUB themes just for fun.
+- 💻 I dail-drive Arch btw, but also mess around with Kubuntu, FreeBSD, RHEL, KolibriOS, and MacOS. Windows 11 for Fortnite, Unity modeling, and programming keyboards for AtMega32u4 chips.
+- 🌱 Personal Goals for January, 2025:
+-     1. Finish reading the "Linux for Dummies" book.
+-     2. Finish the "LPI Linux Essentials" course on Udemy.
+-     3. Test the ArchLinuxSetup script on a new install of Arch, and make sure everything can run sequentially without failing.
 - ⭐ Recent Personal Accomplishments in December, 2024: I made my first few SDDM themes without QtDesignStudio because I could not get the software to stop crashing in Arch lol.
