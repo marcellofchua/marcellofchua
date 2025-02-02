@@ -2,11 +2,8 @@
 - 👀 I’m interested in music, various tech, keyboards, 3D modeling and printing, and programming.
 - 🎓 Bachelors of Science in Cybersecurity, graduated in 2019.
 - 🎓 Associates of Science in Computer Electronics Networking Technology, graduated in 2016.
-- 🎓 Starting another Bachelor's degree in June, 2025.
-- 🛠️ Currently studying for Linux+ and Security+ certifications.
-- 💻 I dail-drive Arch btw, but also mess around with Kubuntu, FreeBSD, RHEL, KolibriOS, and MacOS. Windows 11 for Fortnite, Unity modeling, and programming keyboards for AtMega32u4 chips.
-- 🌱 Personal Goals for January, 2025:
-- 1. Finish reading the "Linux for Dummies" book.
-- 2. Finish the "LPI Linux Essentials" course on Udemy.
-- 3. Get the ArchLinuxSetup script to not fail at any step on a new install of Arch.
-- ⭐ Recent Personal Accomplishments in December, 2024: I made my first few SDDM themes without QtDesignStudio because I could not get the software to stop crashing in Arch lol.
+- 🎓 Starting another Bachelor's degree in May, 2025.
+- 🛠️ Currently studying for Linux Essentials. Should be easy but I want to ace it lol.
+- 💻 I daily-drive Arch btw, but also mess around with Kubuntu, Redhat, and MacOS. Windows for The Finals, Unity modeling, and programming keyboards for AtMega32u4 chips.
+- ⭐ Recent Personal Accomplishments in January, 2024: Finished the 537 page "Linux for Dummies" book, and Jason Dion's 010-160 Udemy course, about to finish "Linux Master" from Ziya Yehia.
+- 🌱 Personal Goals for February, 2025: Obtain the Linux Essentials certification, then speedrun the ITF+, regain my old Apple Certified Technician certs, then speedrun the A+.
