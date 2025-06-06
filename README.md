@@ -2,6 +2,6 @@
 - 👀 I’m interested in music, various tech, keyboards, 3D modeling and printing, and programming.
 - 🎓 Bachelors of Science in Cybersecurity, graduated in 2019.
 - 🎓 Associates of Science in Computer Electronics Networking Technology, graduated in 2016.
-- 🎓 Starting another Bachelor's degree in May, 2025.
-- 🛠️ Currently studying for Linux Essentials. Should be easy but I want to ace it lol.
-- 💻 I daily-drive Arch btw, but also study in Kubuntu, RHEL/CentOS, and MacOS. I use Windows for 3D printing, Unity modeling, and programming keyboards with my favorite AtMega32u4 microcontrollers.
+- 🎓 Starting another Bachelor's degree in September, 2025.
+- 🛠️ Focusing on getting Security+ certified.
+- 💻 iusearchbtw
